@@ -1,0 +1,18 @@
+# Cloned reference repos used only for inspiration / local notes
+reference/
+
+# Arduino IDE build artifacts
+build/
+*.elf
+*.bin
+*.map
+*.hex
+
+# Editor / OS noise
+.vscode/
+.idea/
+.claude/settings.local.json
+*.swp
+*~
+.DS_Store
+Thumbs.db
