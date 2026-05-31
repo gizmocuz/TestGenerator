@@ -7,6 +7,14 @@ Dual-channel waveform / test-pattern generator for the ESP32-WROOM, controlled f
 
 8-bit DACs at **50 kSPS** (Nyquist 25 kHz). 28 built-in waveforms including X/Y / Lissajous patterns for scope display.
 
+## Gallery
+
+Output captured on a Siglent SDS1104X-E:
+
+| Sine (standard DAC mode) | Star (XY vector mode) | PA1DVB callsign (XY vector mode) |
+|:---:|:---:|:---:|
+| ![Sine waveform on the oscilloscope](images/1_scope_sine.png) | ![Star pattern drawn in XY mode](images/2_scope_xy_star.png) | ![PA1DVB callsign drawn in XY mode](images/3_scope_xy_pa1dvb.png) |
+
 ## Features
 
 - 39 waveforms in five groups:
