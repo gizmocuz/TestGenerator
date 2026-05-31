@@ -7,6 +7,12 @@ Dual-channel waveform / test-pattern generator for the ESP32-WROOM, controlled f
 
 8-bit DACs at **50 kSPS** (Nyquist 25 kHz). 28 built-in waveforms including X/Y / Lissajous patterns for scope display.
 
+## Web interface
+
+Everything is controlled from a phone or laptop browser — pick a waveform, set the parameters, hit Apply:
+
+<p align="center"><img src="images/0_webinterface.png" alt="Web control interface" width="360"></p>
+
 ## Gallery
 
 Output captured on a Siglent SDS1104X-E:
